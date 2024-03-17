@@ -41,29 +41,30 @@ lines = 60
 x = 15
 y = 10
 
-# Colors (Challenger Deep)
+# Colors (Dracula)
 [colors.primary]
 background=        "#0d0d0d"
-foreground=        "#eff0eb"
+foreground=        "#f8f8f2"
 dim_foreground=    "#cdd6f4"
 bright_foreground= "#cdd6f4"
 
 [colors.normal]
 black=   '#100e23'
-red=     '#ff8080'
-green=   '#95ffa4'
-yellow=  '#ffe9aa'
-blue=    '#57c7ff'
-magenta= '#a8a9eb'
+red=     '#ff5555'
+green=   '#50fa7b'
+yellow=  '#ffec5c'
+blue=    '#43b7ff'
+magenta= '#ff92df'
 cyan=    '#aaffe4'
-white=   '#cbe3e7'
+white=   '#f8f8f2'
 
 [colors.bright]
 black=   '#686868'
-red=     '#ff5458'
-green=   '#5af78e'
-yellow=  '#ffb378'
-blue=    '#57c7ff'
-magenta= '#8091f2'
-cyan=    '#9aedfe'
-white=   '#f1f1f0'
+red=     '#ff6e6e'
+green=   '#69ff94'
+yellow=  '#ffff80'
+blue=    '#00cfff'
+magenta= '#ff79c6'
+cyan=    '#7cfffe'
+white=   '#ffffff'
+
